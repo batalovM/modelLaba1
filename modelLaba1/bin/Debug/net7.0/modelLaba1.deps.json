@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "modelLaba1/1.0.0": {
+        "runtime": {
+          "modelLaba1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modelLaba1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

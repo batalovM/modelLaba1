@@ -1,0 +1,14 @@
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\bin\Debug\net7.0\modelLaba1.exe
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\bin\Debug\net7.0\modelLaba1.deps.json
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\bin\Debug\net7.0\modelLaba1.runtimeconfig.json
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\bin\Debug\net7.0\modelLaba1.dll
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\bin\Debug\net7.0\modelLaba1.pdb
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.AssemblyInfoInputs.cache
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.AssemblyInfo.cs
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.csproj.CoreCompileInputs.cache
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.dll
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\refint\modelLaba1.dll
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.pdb
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\modelLaba1.genruntimeconfig.cache
+C:\Users\bmaks\RiderProjects\modelLaba1\modelLaba1\obj\Debug\net7.0\ref\modelLaba1.dll
